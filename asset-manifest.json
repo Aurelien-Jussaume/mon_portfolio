@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mon_portfolio/static/css/main.d649f385.chunk.css",
-    "main.js": "/mon_portfolio/static/js/main.1113aba1.chunk.js",
-    "main.js.map": "/mon_portfolio/static/js/main.1113aba1.chunk.js.map",
+    "main.js": "/mon_portfolio/static/js/main.6ebf5dfd.chunk.js",
+    "main.js.map": "/mon_portfolio/static/js/main.6ebf5dfd.chunk.js.map",
     "runtime-main.js": "/mon_portfolio/static/js/runtime-main.c5cc3511.js",
     "runtime-main.js.map": "/mon_portfolio/static/js/runtime-main.c5cc3511.js.map",
     "static/css/2.2c6f5b75.chunk.css": "/mon_portfolio/static/css/2.2c6f5b75.chunk.css",
@@ -14,17 +14,20 @@
     "static/css/2.2c6f5b75.chunk.css.map": "/mon_portfolio/static/css/2.2c6f5b75.chunk.css.map",
     "static/css/main.d649f385.chunk.css.map": "/mon_portfolio/static/css/main.d649f385.chunk.css.map",
     "static/js/2.cefef847.chunk.js.LICENSE.txt": "/mon_portfolio/static/js/2.cefef847.chunk.js.LICENSE.txt",
-    "static/media/CV Aurélien Jussaume.e2d3da39.pdf": "/mon_portfolio/static/media/CV Aurélien Jussaume.e2d3da39.pdf",
+    "static/media/CV Aurélien Jussaume.6686f254.pdf": "/mon_portfolio/static/media/CV Aurélien Jussaume.6686f254.pdf",
     "static/media/App.css": "/mon_portfolio/static/media/coding.4c38bac8.png",
+    "static/media/e-commerce1.091bab6d.png": "/mon_portfolio/static/media/e-commerce1.091bab6d.png",
+    "static/media/e-commerce2.398a7eeb.png": "/mon_portfolio/static/media/e-commerce2.398a7eeb.png",
+    "static/media/e-commerce3.4e494a92.png": "/mon_portfolio/static/media/e-commerce3.4e494a92.png",
+    "static/media/e-commerce4.bffbf283.png": "/mon_portfolio/static/media/e-commerce4.bffbf283.png",
+    "static/media/e-commerce5.ea718d1a.png": "/mon_portfolio/static/media/e-commerce5.ea718d1a.png",
+    "static/media/e-commerce6.dfab1305.png": "/mon_portfolio/static/media/e-commerce6.dfab1305.png",
+    "static/media/e-commerce7.fd8f71b2.png": "/mon_portfolio/static/media/e-commerce7.fd8f71b2.png",
+    "static/media/e-commerce8.7bad6da6.png": "/mon_portfolio/static/media/e-commerce8.7bad6da6.png",
     "static/media/free_ads_1.d3ba43fb.png": "/mon_portfolio/static/media/free_ads_1.d3ba43fb.png",
     "static/media/free_ads_2.b02744ee.png": "/mon_portfolio/static/media/free_ads_2.b02744ee.png",
     "static/media/free_ads_3.5a764aae.png": "/mon_portfolio/static/media/free_ads_3.5a764aae.png",
     "static/media/free_ads_4.5d348cc0.png": "/mon_portfolio/static/media/free_ads_4.5d348cc0.png",
-    "static/media/my_quiz_1.dbcd0855.png": "/mon_portfolio/static/media/my_quiz_1.dbcd0855.png",
-    "static/media/my_quiz_2.224309ab.png": "/mon_portfolio/static/media/my_quiz_2.224309ab.png",
-    "static/media/my_quiz_3.02be7f18.png": "/mon_portfolio/static/media/my_quiz_3.02be7f18.png",
-    "static/media/my_quiz_4.f6251822.png": "/mon_portfolio/static/media/my_quiz_4.f6251822.png",
-    "static/media/my_quiz_5.1806e53e.png": "/mon_portfolio/static/media/my_quiz_5.1806e53e.png",
     "static/media/photo.96ca1294.png": "/mon_portfolio/static/media/photo.96ca1294.png",
     "static/media/spotify_1.62129df4.png": "/mon_portfolio/static/media/spotify_1.62129df4.png",
     "static/media/spotify_2.2b6265cd.png": "/mon_portfolio/static/media/spotify_2.2b6265cd.png",
@@ -42,6 +45,6 @@
     "static/css/2.2c6f5b75.chunk.css",
     "static/js/2.cefef847.chunk.js",
     "static/css/main.d649f385.chunk.css",
-    "static/js/main.1113aba1.chunk.js"
+    "static/js/main.6ebf5dfd.chunk.js"
   ]
 }
